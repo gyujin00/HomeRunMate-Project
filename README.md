@@ -1,23 +1,10 @@
-# mobileplatform10
-저희 시연영상은 파일크기를 고려해서 안전하게 유튜브에 업로드했습니다.
-
-https://youtu.be/S-rTJSRNQ_Q
-
-
-
-
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/cb3bc8ed-71b0-47dc-9280-4ac16c0b4cb7)
+![image](https://github.com/user-attachments/assets/18f6debe-fc88-49ea-a05f-f55561e49e51)
+![image](https://github.com/user-attachments/assets/c48ebbc4-33cf-4c00-8d84-f8aac05260da)
+![image](https://github.com/user-attachments/assets/e52c5f3c-00ca-4ab3-8d13-23fc72a29aec)
+![image](https://github.com/user-attachments/assets/ab12bfbb-202c-4a12-8907-4785aee5ebc4)
+![image](https://github.com/user-attachments/assets/b0ef936a-78df-4712-aa14-8da510d099c9)
+![image](https://github.com/user-attachments/assets/68632df4-663d-4c09-b156-78611e3de6e5)
+![image](https://github.com/user-attachments/assets/ba23d94d-e7ff-4a9a-a965-f59c6566b5e0)
+![image](https://github.com/user-attachments/assets/dcfd0dd4-625c-4f55-a683-628a22082950)
+![image](https://github.com/user-attachments/assets/09db7839-cb8d-47ea-bfc9-9f9c86b7006b)
