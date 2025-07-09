@@ -11,4 +11,4 @@
 
 📄 시연영상
 
-시연 영상: (YouTube 링크 삽입 예정)
+시연 영상: https://youtu.be/KOtLwT4n08I?feature=shared
