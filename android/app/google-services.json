@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976037140960",
+    "project_id": "mobileplatform10",
+    "storage_bucket": "mobileplatform10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976037140960:android:d150d5b95d7eb6dca37385",
+        "android_client_info": {
+          "package_name": "com.example.mobileplatform10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5nD5rcAAnLQprUOj_FmLvs6jUsUDJbqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
